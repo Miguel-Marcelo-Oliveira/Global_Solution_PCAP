@@ -1,0 +1,260 @@
+[
+  {
+    "id": 1,
+    "categoria": "Economia Solidária",
+    "titulo": "Quem pode ser um Empreendimento de Economia Solidária (CADSOL)",
+    "palavras_chave": [
+      "economia solidaria",
+      "empreendimento solidario",
+      "empreendimento de economia solidaria",
+      "ees",
+      "cadsol",
+      "coletivo informal",
+      "iniciativa solidaria"
+    ],
+    "resposta": "Podem se cadastrar coletivos informais, associações, cooperativas e outras sociedades previstas em lei. O grupo precisa ter pelo menos três pessoas de duas ou mais famílias, ser associativo (os próprios trabalhadores são sócios e administradores), fazer atividade econômica (produção, venda, consumo coletivo ou finanças solidárias) e ser gerido de forma democrática, inclusive na divisão dos resultados.",
+    "documentos": [
+      "Conta gov.br nível Bronze, Prata ou Ouro (para fazer o cadastro)"
+    ],
+    "onde": "Cadastro CADSOL, no portal gov.br (serviço de cadastro de iniciativas econômicas solidárias)",
+    "fonte": "https://www.gov.br/pt-br/servicos/cadastrar-iniciativas-economicas-solidarias",
+    "verificado_em": "2026-11-06"
+  },
+  {
+    "id": 2,
+    "categoria": "Economia Solidária",
+    "titulo": "Como cadastrar um empreendimento solidário no CADSOL",
+    "palavras_chave": [
+      "cadastrar empreendimento",
+      "cadastrar iniciativa",
+      "cadsol",
+      "cadastro no cadsol",
+      "cadastro solidario",
+      "cadastrar um empreendimento",
+      "cadastrar grupo",
+      "cadastrar meu grupo",
+      "cadastro do grupo",
+      "cadastro meu grupo"
+    ],
+    "resposta": "O cadastro é gratuito e online: na página do CADSOL no gov.br, escolha a opção Iniciar e preencha os dados do grupo. Depois, a SENAES e uma comissão estadual ou municipal analisam o pedido. Cada etapa tem um prazo máximo e o resultado da análise sai em até 150 dias corridos, enviado por e-mail para quem fez o cadastro.",
+    "documentos": [
+      "Conta gov.br nível Bronze, Prata ou Ouro",
+      "Dados do grupo: endereço, CNPJ (se houver), telefone, e-mail, forma de organização e participantes",
+      "Opcionais: atas de assembleias, cartas de recomendação e registros do coletivo"
+    ],
+    "onde": "Online, na página do CADSOL no portal gov.br (opção Iniciar)",
+    "fonte": "https://www.gov.br/pt-br/servicos/cadastrar-iniciativas-economicas-solidarias",
+    "verificado_em": "2026-11-06"
+  },
+  {
+    "id": 3,
+    "categoria": "Economia Solidária",
+    "titulo": "Declaração de Empreendimento Econômico Solidário (DCSOL)",
+    "palavras_chave": [
+      "dcsol",
+      "declaracao de empreendimento",
+      "declaracao de empreendimento economico solidario",
+      "cadastro aprovado",
+      "cadastro indeferido",
+      "recurso do cadsol",
+      "senaes"
+    ],
+    "resposta": "Se o cadastro no CADSOL for aprovado, o responsável pode emitir a DCSOL. Se a análise pedir complementação, há 30 dias para complementar e reenviar. Se o cadastro for indeferido, cabe recurso na própria plataforma.",
+    "documentos": [
+      "Cadastro do empreendimento aprovado no CADSOL"
+    ],
+    "onde": "Plataforma do CADSOL (gov.br). Contato da SENAES: telefone (61) 2031-6092 ou e-mail cadsol.senaes@trabalho.gov.br",
+    "fonte": "https://www.gov.br/pt-br/servicos/cadastrar-iniciativas-economicas-solidarias",
+    "verificado_em": "2026-11-06"
+  },
+  {
+    "id": 4,
+    "categoria": "Formalização (MEI)",
+    "titulo": "Como virar MEI (Microempreendedor Individual)",
+    "palavras_chave": [
+      "mei",
+      "microempreendedor",
+      "microempreendedor individual",
+      "abrir mei",
+      "virar mei",
+      "formalizar",
+      "quero ser mei",
+      "portal do empreendedor",
+      "cadastrar mei",
+      "registrar mei",
+      "registro como mei",
+      "inscricao do mei"
+    ],
+    "resposta": "O registro como MEI é gratuito e feito pela internet, no Portal do Empreendedor, com conta gov.br nível Prata ou Ouro. Escolha a opção Quero ser MEI, siga para a formalização, preencha o formulário de inscrição, marque as declarações e finalize. Segundo a página oficial, o atendimento é imediato e o serviço funciona 24 horas por dia.",
+    "documentos": [
+      "Conta gov.br nível Prata ou Ouro",
+      "RG",
+      "Dados de contato e endereço",
+      "Dados do negócio: atividade econômica, forma de atuação e local de funcionamento"
+    ],
+    "onde": "Online, no Portal do Empreendedor (mei.receita.economia.gov.br)",
+    "fonte": "https://www.gov.br/pt-br/servicos/realizar-registro-como-microempreendedor-individual-mei",
+    "verificado_em": "2026-11-06"
+  },
+  {
+    "id": 5,
+    "categoria": "Formalização (MEI)",
+    "titulo": "Quem pode ser MEI e quais regras o MEI precisa seguir",
+    "palavras_chave": [
+      "quem pode ser mei",
+      "limite",
+      "limite do mei",
+      "limite de faturamento",
+      "faturamento do mei",
+      "imposto do mei",
+      "tributos do mei",
+      "emitir das",
+      "das do mei",
+      "contratar funcionario",
+      "imposto",
+      "tributos",
+      "mei paga",
+      "posso ser mei",
+      "pode ser mei",
+      "ser socio",
+      "socio",
+      "empregado",
+      "faturamento",
+      "regras do mei"
+    ],
+    "resposta": "Para ser MEI é preciso exercer uma atividade prevista nas Tabelas A ou B do Anexo XI da Resolução CGSN nº 140, de 2018, e respeitar o limite de faturamento anual (a página oficial cita R$ 81.000,00 para as atividades da Tabela A; confira o limite da sua atividade na própria página). Não pode ser sócio, administrador ou titular de outra empresa e pode ter no máximo um empregado. O MEI paga tributos simplificados e contribui para a previdência social.",
+    "documentos": [
+      "Conta gov.br nível Prata ou Ouro (para o registro)"
+    ],
+    "onde": "Portal do Empreendedor (mei.receita.economia.gov.br); para pagar os tributos, serviço Emitir DAS do MEI",
+    "fonte": "https://www.gov.br/pt-br/servicos/realizar-registro-como-microempreendedor-individual-mei",
+    "verificado_em": "2026-11-06"
+  },
+  {
+    "id": 6,
+    "categoria": "Voluntariado",
+    "titulo": "O que é serviço voluntário e onde posso ser voluntário",
+    "palavras_chave": [
+      "voluntariado",
+      "voluntario",
+      "o que e voluntariado",
+      "servico voluntario",
+      "trabalho voluntario",
+      "quem pode ser voluntario",
+      "onde ser voluntario",
+      "lei do voluntariado",
+      "lei 9608",
+      "quero ajudar",
+      "ajudar outras pessoas",
+      "projeto social",
+      "acao social"
+    ],
+    "resposta": "Serviço voluntário é uma atividade não remunerada, feita por uma pessoa, em um órgão público ou em uma instituição privada sem fins lucrativos. Os objetivos podem ser cívicos, culturais, educacionais, científicos, recreativos ou de assistência à pessoa. Ele é regulado pela Lei nº 9.608/1998.",
+    "documentos": [
+      "Nenhum"
+    ],
+    "onde": "Em órgão público ou instituição privada sem fins lucrativos que aceite voluntários",
+    "fonte": "https://legis.senado.leg.br/norma/551484/publicacao/34619707",
+    "verificado_em": "2026-11-09"
+  },
+  {
+    "id": 7,
+    "categoria": "Voluntariado",
+    "titulo": "Como ser voluntário do ICMBio",
+    "palavras_chave": [
+      "icmbio",
+      "voluntario do icmbio",
+      "voluntariado no icmbio",
+      "instituto chico mendes",
+      "seja um voluntario",
+      "conservacao da biodiversidade",
+      "unidade de conservacao"
+    ],
+    "resposta": "Qualquer pessoa pode se candidatar. Primeiro veja as oportunidades no site do Programa de Voluntariado do ICMBio. Depois, candidate-se à vaga da unidade escolhida pelo sistema \"Seja um Voluntário\". O serviço é gratuito e o prazo não é informado pelo órgão.",
+    "documentos": [
+      "Termo de Adesão ao Serviço Voluntário",
+      "Plano de Trabalho Individual ou Coletivo"
+    ],
+    "onde": "Online: site do Programa de Voluntariado do ICMBio e sistema \"Seja um Voluntário\" (sejaumvoluntario.sisicmbio.icmbio.gov.br)",
+    "fonte": "https://www.gov.br/pt-br/servicos/ser-um-voluntario-do-icmbio",
+    "verificado_em": "2026-11-09"
+  },
+  {
+    "id": 8,
+    "categoria": "Voluntariado",
+    "titulo": "Termo de adesão ao serviço voluntário",
+    "palavras_chave": [
+      "termo de adesao",
+      "termo de voluntariado",
+      "termo de adesao ao servico voluntario",
+      "contrato de voluntario",
+      "documento do voluntario",
+      "assinar algum documento",
+      "assinar documento",
+      "assinar termo",
+      "assinar um termo",
+      "obrigatorio assinar",
+      "necessario assinar",
+      "preciso assinar",
+      "precisa assinar"
+    ],
+    "resposta": "O serviço voluntário precisa ser formalizado por um termo de adesão, assinado entre a entidade e a pessoa voluntária. Nele devem constar o objeto (o que será feito) e as condições de execução do serviço.",
+    "documentos": [
+      "Termo de adesão, feito com a entidade onde você vai atuar"
+    ],
+    "onde": "Na entidade (órgão público ou instituição sem fins lucrativos) em que você vai ser voluntário",
+    "fonte": "https://legis.senado.leg.br/norma/551484/publicacao/34619707",
+    "verificado_em": "2026-11-09"
+  },
+  {
+    "id": 9,
+    "categoria": "Voluntariado",
+    "titulo": "Voluntário tem vínculo de emprego e direitos trabalhistas",
+    "palavras_chave": [
+      "vinculo empregaticio",
+      "vinculo trabalhista",
+      "direitos trabalhistas",
+      "clt",
+      "carteira assinada",
+      "voluntario recebe salario",
+      "voluntario e remunerado",
+      "voluntario ganha",
+      "remunerado"
+    ],
+    "resposta": "Não. O serviço voluntário é não remunerado e não gera vínculo de emprego nem obrigações trabalhistas ou previdenciárias. Por isso, vale ler com atenção o termo de adesão antes de assinar.",
+    "documentos": [
+      "Nenhum"
+    ],
+    "onde": "Lei nº 9.608/1998 (art. 1º). Tire dúvidas com a entidade antes de assinar o termo de adesão",
+    "fonte": "https://legis.senado.leg.br/norma/551484/publicacao/34619707",
+    "verificado_em": "2026-11-09"
+  },
+  {
+    "id": 10,
+    "categoria": "Voluntariado",
+    "titulo": "Ressarcimento das despesas do voluntário",
+    "palavras_chave": [
+      "ressarcimento",
+      "ressarcir",
+      "reembolso",
+      "despesas do voluntario",
+      "gastos do voluntario",
+      "voluntario pode ser reembolsado",
+      "pedir de volta",
+      "reembolsado",
+      "ser reembolsado",
+      "posso ser reembolsado",
+      "pode ser reembolsado",
+      "reembolsar",
+      "ressarcido"
+    ],
+    "resposta": "O voluntário pode ser ressarcido pelas despesas que comprovar ter tido ao realizar a atividade. Essas despesas precisam ter sido expressamente autorizadas pela entidade.",
+    "documentos": [
+      "Comprovantes das despesas",
+      "Autorização expressa da entidade"
+    ],
+    "onde": "Com a entidade em que você é voluntário",
+    "fonte": "https://legis.senado.leg.br/norma/551484/publicacao/34619707",
+    "verificado_em": "2026-11-09"
+  }
+]

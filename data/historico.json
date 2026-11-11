@@ -1,0 +1,123 @@
+[
+  {
+    "data": "2026-11-10 18:04:17",
+    "origem": "pergunta",
+    "pergunta": "Como cadastro meu grupo no CADSOL?",
+    "id_orientacao": 1,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 2,
+    "tempo": 31.5,
+    "facilidade": null
+  },
+  {
+    "data": "2026-11-10 18:04:52",
+    "origem": "pergunta",
+    "pergunta": "Quantas pessoas precisa ter para formar um empreendimento solidário?",
+    "id_orientacao": 1,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 1,
+    "tempo": 35.6,
+    "facilidade": null
+  },
+  {
+    "data": "2026-11-10 18:05:25",
+    "origem": "pergunta",
+    "pergunta": "Posso ser reembolsado pelo transporte quando faço trabalho voluntário?",
+    "id_orientacao": 6,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 1,
+    "tempo": 32.7,
+    "facilidade": 5
+  },
+  {
+    "data": "2026-11-10 20:34:22",
+    "origem": "pergunta",
+    "pergunta": "Quem pode ser voluntário?",
+    "id_orientacao": 6,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 1,
+    "tempo": 20.8,
+    "facilidade": null
+  },
+  {
+    "data": "2026-11-10 20:34:44",
+    "origem": "pergunta",
+    "pergunta": "Onde posso fazer trabalho voluntário?",
+    "id_orientacao": 6,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 1,
+    "tempo": 21.7,
+    "facilidade": null
+  },
+  {
+    "data": "2026-11-10 20:36:26",
+    "origem": "pergunta",
+    "pergunta": "Voluntário tem direitos trabalhistas?",
+    "id_orientacao": 9,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 1,
+    "tempo": 49.7,
+    "facilidade": null
+  },
+  {
+    "data": "2026-11-10 20:36:44",
+    "origem": "pergunta",
+    "pergunta": "Um voluntário pode ser reembolsado?",
+    "id_orientacao": 10,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 1,
+    "tempo": 18.0,
+    "facilidade": 5
+  },
+  {
+    "data": "2026-11-11 14:30:25",
+    "origem": "pergunta",
+    "pergunta": "Quais os documentos necessários para abrir MEI?",
+    "id_orientacao": 4,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 1,
+    "tempo": 23.5,
+    "facilidade": null
+  },
+  {
+    "data": "2026-11-11 14:31:23",
+    "origem": "pergunta",
+    "pergunta": "O caracteriza um empreendimento de economia solidária?",
+    "id_orientacao": 1,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 1,
+    "tempo": 58.7,
+    "facilidade": null
+  },
+  {
+    "data": "2026-11-11 14:32:04",
+    "origem": "pergunta",
+    "pergunta": "É necessário assinar algum documento para ser voluntário?",
+    "id_orientacao": 6,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 1,
+    "tempo": 40.8,
+    "facilidade": null
+  },
+  {
+    "data": "2026-11-11 14:32:49",
+    "origem": "pergunta",
+    "pergunta": "É obrigatório assinar um termo de adesão para ser voluntário?",
+    "id_orientacao": 8,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 1,
+    "tempo": 44.6,
+    "facilidade": 4
+  }
+]
